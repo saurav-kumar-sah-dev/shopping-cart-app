@@ -7,7 +7,7 @@ This app lets users **browse products**, **add/remove items from the cart**, and
 
 ## 🚀 Live Demo  
 
-🔗 [**View Deployed App**](https://shopping-cart-app.vercel.app) *(after deployment)*  
+🔗 [**View Deployed App**](https://shopping-cart-app-jhjf.vercel.app) ✅ *(Live Now)*  
 
 ---
 
@@ -34,13 +34,13 @@ This app lets users **browse products**, **add/remove items from the cart**, and
 
 ## 🛠 Tech Stack  
 
-| **Technology**     | **Purpose**              |
-|--------------------|-------------------------|
-| ⚛ **React**       | Frontend UI framework   |
+| **Technology**      | **Purpose**              |
+|---------------------|-------------------------|
+| ⚛ **React**        | Frontend UI framework   |
 | 🟣 **Redux Toolkit** | State management       |
 | 🎨 **Tailwind CSS** | Styling & responsive design |
 | 🔗 **React Router** | Client-side routing    |
-| ▲ **Vercel**      | Deployment platform     |
+| ▲ **Vercel**       | Deployment platform     |
 
 
 
