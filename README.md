@@ -32,7 +32,7 @@ This app lets users **browse products**, **add/remove items from the cart**, and
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack 
 
 | **Technology**      | **Purpose**              |
 |---------------------|-------------------------|
